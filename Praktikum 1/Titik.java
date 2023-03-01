@@ -1,6 +1,8 @@
 /* Nama File	: Titik.java
    Nama		: Annisa Kumala Dewi
    NIM		: 24060121120025
+   Tanggal	: 22 Februari 2023
+   Deskripsi	: Program yang berisi kelas Titik
    Lab		: B1*/
 
 class Titik {

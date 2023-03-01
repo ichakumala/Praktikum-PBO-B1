@@ -2,6 +2,7 @@
    Nama		: Annisa Kumala Dewi
    NIM		: 24060121120025
    Tanggal	: 22 Febuari 2022
+   Deskipsi	: Kelas yang berisi program utama yang memanfaatkan kelas Titik
    Lab		: B1*/
 
 class MTitik {

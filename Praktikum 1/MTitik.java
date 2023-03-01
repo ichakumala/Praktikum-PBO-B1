@@ -1,6 +1,7 @@
 /* Nama File	: MTitik.java
    Nama		: Annisa Kumala Dewi
    NIM		: 24060121120025
+   Tanggal	: 22 Febuari 2022
    Lab		: B1*/
 
 class MTitik {

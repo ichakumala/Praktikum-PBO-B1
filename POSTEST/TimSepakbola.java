@@ -1,3 +1,10 @@
+/* Nama File	: TimSepakbola.java
+   Nama		    : Annisa Kumala Dewi
+   NIM		    : 24060121120025
+   Tanggal	  : 15 Maret 2023
+   Deskipsi	  : Kelas yang berisi program utama yang berisi kelas TimSepakbola 
+   Lab		    : B1*/
+
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!

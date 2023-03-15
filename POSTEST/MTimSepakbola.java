@@ -1,3 +1,10 @@
+/* Nama File	: MTimSepakbola.java
+   Nama		: Annisa Kumala Dewi
+   NIM		: 24060121120025
+   Tanggal	: 15 Maret 2023
+   Deskipsi	: Kelas yang berisi program utama yang memanfaatkan kelas TimSepakbola
+   Lab		: B1*/
+
 class MTimSepakbola {
     public static void main(String[] args) {
       // TODO: Make an instance called 'liverpool' -> use constructor which you have made before

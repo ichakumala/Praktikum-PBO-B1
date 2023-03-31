@@ -1,6 +1,6 @@
 /**
-Pembuat : Silvira Nabila Anggita Giraldi
-NIM : 24060121120011
+Pembuat : Annisa Kumala Dewi
+NIM : 24060121120025
 Tanggal : 25 Maret 2023
 Deskripsi : Kelas yang mengimplementasikan cara menghitung luas bujur sangkar
 Lab : B1

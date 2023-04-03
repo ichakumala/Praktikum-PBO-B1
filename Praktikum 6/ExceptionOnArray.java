@@ -1,3 +1,10 @@
+/*
+Nama File   : ExceptionOnArray.Java 29/03/23
+Pembuat     : Annisa Kumala Dewi - 24060121120025
+Deskripsi   : Program penggunaan eksepsi menggunakan class library Java
+Lab         : B1
+*/
+
 public class ExceptionOnArray{
     public static void main(String[] args){
         Integer[] arrayInteger = new Integer[4];

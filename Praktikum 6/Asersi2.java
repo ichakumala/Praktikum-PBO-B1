@@ -1,3 +1,10 @@
+/*
+Nama File   : Asersi2.Java 29/03/23
+Pembuat     : Annisa Kumala Dewi - 24060121120025
+Deskripsi   : Program untuk demo asersi, yang akan menolak input jari-jari lingkaran yang bernilai nol
+Lab         : B1
+*/
+
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){
@@ -20,3 +27,10 @@ public class Asersi2{
 
     }
 }
+
+/*
+Pertanyaan  : Ada yang kurang dari Asersi2 diatas?
+Jawab       : Pada sintaks "jari - jari > 0" salah, karena sintaks yang benar yaitu "jari - jari != 0"
+              Alasan dari penggunaan sintaks "jari - jari != 0" yaitu agar nilai positif serta negatif dapat dijalankan. 
+              Dan dilakukan pemerikasaan bahwa jari - jari yang dimasukkan bukan nol. 
+*/

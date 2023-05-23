@@ -1,3 +1,10 @@
+/*
+NamaFile    : BangunDatarGenericTest.java
+Nama        : Annisa Kumala Dewi
+NIM         : 24060121120025
+Deskripsi   : Main class untuk generic bangun datar
+*/
+
 public class BangunDatarGenericTest{
     public static void main(String[] args){
         Lingkaran l = new Lingkaran(2);

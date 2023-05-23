@@ -1,3 +1,10 @@
+/*
+NamaFile    : Lingkaran.java
+Nama        : Annisa Kumala Dewi
+NIM         : 24060121120025
+Deskripsi   : Implementasi lingkaran sebagai bangun datar
+*/
+
 /*public class Lingkaran extends BangunDatar{
     private double jejari;
 

@@ -1,4 +1,4 @@
-/* File      : LambdaMap.java		
+/* File      : LambdaHashMap.java		
    Penulis   : Annisa Kumala Dewi / 24060121120025
    Deskripsi : Ekspresi lambda pada hashmap, digunakan untuk parameter pada method.*/
 
